@@ -4,13 +4,11 @@
 
 TCIVS CSE 💻
 
-coding is hard 😥
+Everything is like a boolean, which is between yes and no.
 
-妄想成為⚡神的肥宅 
+If I could win the competition, I would be happier a lot.
 
-"人生苦短，我用蟒蛇🐍"
-
-view my [blog](https://i-am-nothing.github.io)
+VIEW MY [BLOG](https://i-am-nothing.github.io)
 
 
 [![I-am-nothing's github stats](https://github-readme-stats.vercel.app/api?username=I-am-nothing&theme=blue-green&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

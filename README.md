@@ -1,6 +1,6 @@
 # I-am-nothing
 
-## about
+## ABOUT
 
 TCIVS CSE 💻
 

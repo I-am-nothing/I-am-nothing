@@ -4,7 +4,7 @@
 
 TCIVS CSE 💻
 
-Everything is like a boolean, which is between yes and no.
+Everything is like a boolean, which is between existing and non-existing.
 
 If I could win the competition, I would be happier a lot.
 

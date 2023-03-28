@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-TCIVS CSE 💻
+NKUST IM💻
 
 Everything is like a boolean, which is between existing and non-existing.
 
